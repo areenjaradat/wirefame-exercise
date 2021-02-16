@@ -1,0 +1,45 @@
+header{padding: 50px;
+    /*text-align: center;*/
+    background: grey;
+    color: rgb(10, 10, 10);
+margin: 30px;}
+
+header img{float: left;margin: 3px;}
+
+nav ul li{
+  
+    display: inline-block;
+    margin: 50px;
+    font-size: 40px;
+    
+}
+main{  clear:both;padding:50px;}
+
+figure img{
+    clear:both;
+    margin: 15px;
+}
+div{
+    float: left;
+    padding:50px;
+}
+figcaption{clear:both;padding:50px;}
+figcaption img{
+    
+    float: left;
+    padding:10px;
+}
+figcaption article p{
+    float: left;
+    right: 0px;
+    padding:10px;
+   
+    max-width: 400px;
+}
+figcaption article p b{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 3px;
+    
+}
+footer{clear: both; background: grey;padding: 50px;}
